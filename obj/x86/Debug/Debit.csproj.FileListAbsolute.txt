@@ -1,0 +1,17 @@
+G:\Users\Genry\AppData\Local\Temporary Projects\Debit\bin\Debug\Debit.exe
+G:\Users\Genry\AppData\Local\Temporary Projects\Debit\bin\Debug\Debit.pdb
+G:\Users\Genry\AppData\Local\Temporary Projects\Debit\obj\x86\Debug\Debit.Properties.Resources.resources
+G:\Users\Genry\AppData\Local\Temporary Projects\Debit\obj\x86\Debug\Debit.csproj.GenerateResource.Cache
+G:\Users\Genry\AppData\Local\Temporary Projects\Debit\obj\x86\Debug\Debit.exe
+G:\Users\Genry\AppData\Local\Temporary Projects\Debit\obj\x86\Debug\Debit.pdb
+G:\Users\Genry\AppData\Local\Temporary Projects\Debit\obj\x86\Debug\Debit.MainForm.resources
+G:\Users\Genry\Documents\Visual Studio 2010\Projects\Debit\Debit\obj\x86\Debug\Debit.exe
+G:\Users\Genry\Documents\Visual Studio 2010\Projects\Debit\Debit\obj\x86\Debug\Debit.pdb
+G:\Users\Genry\Documents\Visual Studio 2010\Projects\Debit\Debit\bin\Debug\Debit.exe
+G:\Users\Genry\Documents\Visual Studio 2010\Projects\Debit\Debit\bin\Debug\Debit.pdb
+G:\Users\Genry\Documents\Visual Studio 2010\Projects\Debit\Debit\obj\x86\Debug\Debit.MainForm.resources
+G:\Users\Genry\Documents\Visual Studio 2010\Projects\Debit\Debit\obj\x86\Debug\Debit.Properties.Resources.resources
+G:\Users\Genry\Documents\Visual Studio 2010\Projects\Debit\Debit\obj\x86\Debug\Debit.csproj.GenerateResource.Cache
+G:\Users\Genry\documents\visual studio 2010\Projects\Debit\Debit\obj\x86\Debug\Debit.csprojResolveAssemblyReference.cache
+G:\Users\Genry\documents\visual studio 2010\Projects\Debit\Debit\bin\Debug\CSMoney.dll
+G:\Users\Genry\documents\visual studio 2010\Projects\Debit\Debit\bin\Debug\CSMoney.pdb
